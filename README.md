@@ -21,7 +21,7 @@ There are options to update and delete the products
 <img width="946" alt="image" src="https://github.com/user-attachments/assets/9ef4f38b-c8ca-4955-bb5a-debbe6de87ec" />
 
 
-Data Security(Spring Data Jpa like auth,jwt yet to be added) and the search functionality in progress
+Data Security(Spring Data Jpa like auth,jwt yet to be added) and the search functionality in progress,along with other features
 
 
 
