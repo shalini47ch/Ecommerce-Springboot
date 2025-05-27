@@ -47,8 +47,9 @@ This is a full-stack Ecommerce application built using **React** for the fronten
 
 ---
 
+## Search functionality added you are able to search by name,description,brand and category used JPQL
+
 ## In Progress
-- Search functionality
 - JWT-based authentication & authorization (Spring Security)
 - Switch to MySQL or PostgreSQL for persistent data (optional)
 - New features according to ideas when they pop up
